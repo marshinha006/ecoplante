@@ -1,0 +1,10 @@
+.logo {
+    height: 80%;
+    padding-top: 10%;
+    left: 50%;
+}
+
+.leaves {
+    position: absolute; 
+    z-index: -1;
+}
